@@ -1,4 +1,4 @@
-# Final-Project-2
+# Huma activity analysis
 
 # Data Description 
 The data in the following dataset conatins X as sesnor measurements from 30 smartphones and Y contains the type of activity that was performed when the sensor measurement/data
